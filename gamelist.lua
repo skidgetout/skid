@@ -1,38 +1,38 @@
 local Games = {
     -- Anime Eternal
-    ["7882829745"] = "https://raw.githubusercontent.com/Ken-884/roblox/refs/heads/main/Script/Script_AnimeEternal.lua",
+    ["7882829745"] = "",
     -- Anime Fight
-    ["8469926548"] = "https://raw.githubusercontent.com/Ken-884/roblox/refs/heads/main/Script/Script_AnimeFight.lua",
+    ["8469926548"] = "",
     -- Anime Ranger X
-    ["6884266247"] = "https://raw.githubusercontent.com/Ken-884/roblox/refs/heads/main/Script/Script_AnimeRangerX.lua",
+    ["6884266247"] = "",
     -- Arise Crossover
-    ["7074860883"] = "https://raw.githubusercontent.com/Ken-884/roblox/refs/heads/main/Script/Script_AriseCrossover.lua",
+    ["7074860883"] = "",
     -- Arsenal
-    ["111958650"] = "https://raw.githubusercontent.com/Ken-884/roblox/refs/heads/main/Script/Script_Arsenal.lua",
+    ["111958650"] = "",
     -- Blue Heater 2
-    ["5803093656"] = "https://raw.githubusercontent.com/Ken-884/roblox/refs/heads/main/Script/Script_BlueHeater2.lua",
+    ["5803093656"] = "",
     -- Build a Zoo
-    ["8066283370"] = "https://raw.githubusercontent.com/Ken-884/roblox/refs/heads/main/Script/Script_BuildAZoo.lua",
+    ["8066283370"] = "",
     -- Build an Island
-    ["7541395924"] = "https://raw.githubusercontent.com/Ken-884/roblox/refs/heads/main/Script/Script_BuildanIsland.lua",
+    ["7541395924"] = "",
     -- Dig a Brainrot
-    ["8820222330"] = "https://raw.githubusercontent.com/Ken-884/roblox/refs/heads/main/Script/Script_DigaBrainrot.lua",
+    ["8820222330"] = "",
     -- Dig to Earth
-    ["7468338447"] = "https://raw.githubusercontent.com/Ken-884/roblox/refs/heads/main/Script/Script_DigtoEarthFinal.lua",
+    ["7468338447"] = "",
     -- Dungeon Heroes
-    ["7546582051"] = "https://raw.githubusercontent.com/Ken-884/roblox/refs/heads/main/Script/Script_DungeonHeroes.lua",
+    ["7546582051"] = "",
     -- Fish It
-    ["6701277882"] = "https://raw.githubusercontent.com/Ken-884/roblox/refs/heads/main/Script/Script_FishIt.lua",
+    ["6701277882"] = "",
     -- Hypershot (Discontinued)
-    ["5995470825"] = "https://raw.githubusercontent.com/Ken-884/roblox/refs/heads/main/Script/Script_Hypershot.lua",
+    ["5995470825"] = "",
     -- Plant vs Brainrot
-    ["8316902627"] = "https://raw.githubusercontent.com/Ken-884/roblox/refs/heads/main/Script/Script_PlantvsBrainrot.lua",
+    ["8316902627"] = "",
     -- Restaurant Tycoon 3
-    ["7094518649"] = "https://raw.githubusercontent.com/Ken-884/roblox/refs/heads/main/Script/Script_RestaurantTycoon3.lua",
+    ["7094518649"] = "",
     -- Swordburst 3 floors
-    ["4093155512"] = "https://raw.githubusercontent.com/Ken-884/roblox/refs/heads/main/Script/Script_Swordburst3.lua",
+    ["4093155512"] = "",
     -- The Forge
-    ["7671049560"] = "https://raw.githubusercontent.com/Ken-884/roblox/refs/heads/main/Script/Script_TheForge.lua"
+    ["7671049560"] = ""
 }
 
 return Games
